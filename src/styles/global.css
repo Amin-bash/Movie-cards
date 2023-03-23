@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("../../public/fonts/Poppins-Regular.woff2") format("woff2");
+  }
+  @font-face {
+    font-family: "Tajawal";
+    font-style: normal;
+    font-weight: 200;
+    font-display: swap;
+    src: url("../../public/fonts/Tajawal-Regular.woff2") format("woff2");
+  }
